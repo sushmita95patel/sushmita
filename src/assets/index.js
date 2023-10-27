@@ -6,7 +6,6 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import git from "./tech/git.png";
@@ -19,8 +18,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import Django from "./tech/django.png";
 import threejs from "./tech/threejs.png";
-import graduation from "./company/graduation.png";
-import school from "./company/school.png";
+//import graduation from "./company/graduation.png";
+//import school from "./company/school.png";
 import CPP from "./tech/CPP.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -46,8 +45,8 @@ export {
   tailwind,
   Django,
   threejs,
-  graduation,
-  school,
+  //graduation,
+  //school,
   CPP,
   carrent,
   jobit,

@@ -18,7 +18,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.png";
 import graduation from "./company/graduation.png";
-import school from "./company/school.png";
+// import school from "./company/school.png";
 import CPP from "./tech/CPP.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -44,7 +44,7 @@ export {
   tailwind,
   threejs,
   graduation,
-  school,
+  // school,
   CPP,
   carrent,
   jobit,

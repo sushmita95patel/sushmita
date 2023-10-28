@@ -16,7 +16,7 @@ import {
     jobit,
     threejs,
     graduation,
-    school,
+    // school,
     CPP,
   
     //  Navbar,
@@ -124,7 +124,7 @@ import {
     {
       title: "Higher Secondary Certificate",
       company_name: "school",
-      icon: school,
+      icon: graduation,
       iconBg: "#E6DEDD",
       date: "july 2018 - may 2019",
       points: ["At GB Pant High. Sec. School Bhopal",],

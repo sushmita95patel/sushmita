@@ -16,8 +16,8 @@ import {
     carrent,
     jobit,
     threejs,
-    graduation,
-    school,
+    // graduation,
+    // school,
     CPP,
   
     //  Navbar,
@@ -121,7 +121,7 @@ import {
     {
       title: "Bachelor Of Technology",
       company_name: "graduation",
-      icon: graduation,
+      icon: Django,
       iconBg: "#E6DEDD",
       date: "july 2019 - may 2023",
       points: ["I have successfully completed my Bachelor's degree in Computer Science at SIRTS Bhopal, India",],
@@ -129,7 +129,7 @@ import {
     {
       title: "Higher Secondary Certificate",
       company_name: "school",
-      icon: school,
+      icon: Django,
       iconBg: "#E6DEDD",
       date: "july 2018 - may 2019",
       points: ["At GB Pant High. Sec. School Bhopal",],

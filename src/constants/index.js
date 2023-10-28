@@ -16,7 +16,7 @@ import {
     carrent,
     jobit,
     threejs,
-    // graduation,
+    graduation,
     // school,
     CPP,
   
@@ -121,7 +121,7 @@ import {
     {
       title: "Bachelor Of Technology",
       company_name: "graduation",
-      icon: Django,
+      icon: graduation,
       iconBg: "#E6DEDD",
       date: "july 2019 - may 2023",
       points: ["I have successfully completed my Bachelor's degree in Computer Science at SIRTS Bhopal, India",],

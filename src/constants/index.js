@@ -12,12 +12,11 @@ import {
     nodejs,
     mongodb,
     git,
-    Django,
     carrent,
     jobit,
     threejs,
-    // graduation,
-    // school,
+    graduation,
+    school,
     CPP,
   
     //  Navbar,
@@ -67,6 +66,14 @@ import {
   
   const technologies = [
     {
+      name: "CPP",
+      icon: CPP,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -77,14 +84,6 @@ import {
     {
       name: "JavaScript",
       icon: javascript,
-    },
-    {
-      name: "CPP",
-      icon: CPP,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
     },
     {
       name: "Redux Toolkit",
@@ -110,10 +109,6 @@ import {
       name: "git",
       icon: git,
     },
-    {
-      name: "Django",
-      icon: Django,
-    },
     
   ];
   
@@ -121,7 +116,7 @@ import {
     {
       title: "Bachelor Of Technology",
       company_name: "graduation",
-      icon: Django,
+      icon: graduation,
       iconBg: "#E6DEDD",
       date: "july 2019 - may 2023",
       points: ["I have successfully completed my Bachelor's degree in Computer Science at SIRTS Bhopal, India",],
@@ -129,7 +124,7 @@ import {
     {
       title: "Higher Secondary Certificate",
       company_name: "school",
-      icon: Django,
+      icon: school,
       iconBg: "#E6DEDD",
       date: "july 2018 - may 2019",
       points: ["At GB Pant High. Sec. School Bhopal",],

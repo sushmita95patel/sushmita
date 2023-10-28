@@ -16,10 +16,9 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import Django from "./tech/django.png";
 import threejs from "./tech/threejs.png";
-// import graduation from "./company/graduation.png";
-// import school from "./company/school.png";
+import graduation from "./company/graduation.png";
+import school from "./company/school.png";
 import CPP from "./tech/CPP.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -43,10 +42,9 @@ export {
   reactjs,
   redux,
   tailwind,
-  Django,
   threejs,
-  // graduation,
-  // school,
+  graduation,
+  school,
   CPP,
   carrent,
   jobit,
